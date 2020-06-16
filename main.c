@@ -82,5 +82,6 @@ int main()
 
 	ft_strlentest();
 	ft_strcmptest();
+	ft_strcpytest();
 	return 0;
 }
